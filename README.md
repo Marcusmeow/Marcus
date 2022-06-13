@@ -4,8 +4,8 @@
 
 <!-- Add your details -->
 ✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
+&nbsp;&nbsp; 📲 +65-XXXXXXXXXX
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/marcus-meow 929aa2125/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
@@ -13,12 +13,12 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://user-images.githubusercontent.com/106577400/173318544-a6e05c5d-4566-42db-9fa1-f3540ad22a64.png)
+
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
-
+Aspiring Data Analyst and currently studying Business and Data Analytics course. Product management expert with more than 10 years of experience in the travel industry. Developed successful marketing campaigns in strategic partnerships with various Airlines, MediaCorp, Australia Tourism Board, and its sub-boards. Possesses good business acumen with an eager eye for business opportunities.
 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
