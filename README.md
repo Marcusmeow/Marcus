@@ -31,22 +31,29 @@ Aspiring Data Analyst and currently studying Business and Data Analytics course.
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### ASA Holidays
+SENIOR PRODUCT MANAGER <br>
+Jan 2018 – Nov 2019: 1 year 11 Months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: Product Manager
+UNIT: Product Development
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+•	Evaluated competitor and pricing analysis to maintain a competitive edge for group packages while meeting customers’ expectations and achieving projected profit margins and revenue. 
+•	Formulated winning strategies to maximize competitive advantage in tour contents and pricing for itineraries to Australia, Europe, and exotic locations.
+•	Strengthened customer satisfaction and retention rates through thorough research and negotiation for best deals and new travel options through post-tours feedback surveys.
+•	Oversee Content Management System to optimize and maintain product listings on the website.
+•	Analysed sales report data daily to identify the performance of the various products.
+
 
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### EDUCATION
+
+Diploma in Tourism Management (2002)                
+Temasek Polytechnic
 
 <!-- EDUCATION Section Ends -->
 
@@ -55,7 +62,7 @@ Engineering Graduate 2010-14, First Division
 <!-- Add your details -->
 
 [Classification based projects](#classification-based-projects) <br>
-[Regression based projects](#regression-based-projects) <br>
+
 
 <!-- Add your details -->
 
@@ -79,8 +86,18 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+Rapid and Immersive Skill Enhancement (RISE): Business and Data Analytics 15 Mar- 9 Sep 2022
+DigitalBCG Academy
+
+Certified Digital Marketing Strategist Programme (Nov 2019 – Jan 2020)
+Equinet Academy 
+
 
 ##### Achievements
-Star performer of the year at Accenture
+- Contributed to a 500% increase in sales revenue in ASA Holidays (2012 to 2014)
+- Achieved 100% in incremental sales to Australia (2010 to 2016) and 200% for Turkey in 2014
+- Identified opportunities and reduced costs prices by 30% leading to increased gross profit margin 
+  of products (2012 to 2019)
+- Spearheaded ASA Holidays to be the market leader in Australia group tours.
+
 <!-- FEATURED Section Ends -->
